@@ -38,7 +38,7 @@ body {
   --x: 0;
   --y: 0;
   --bg-lightness: 80%;
-  --txt-lightness: 20%;
+  --text-lightness: 20%;
   position: absolute;
   display: flex;
   justify-content: center;

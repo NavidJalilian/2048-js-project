@@ -1,5 +1,7 @@
 import Grid from "./Grid.js";
+import Tile from "./Tile.js";
 const gameBoard = document.querySelector(".game-board");
 const grid = new Grid(gameBoard);
-// grid.randomEmtyCell().tile=new Tile(gameBoard);
-console.log(grid.randomEmptyCell());
+grid.randomEmptyCell().tile = new Tile(gameBoard);
+grid.randomEmptyCell().tile = new Tile(gameBoard);
+console.log(grid);
