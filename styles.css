@@ -60,7 +60,7 @@ body {
   font-weight: bold;
 }
 @keyframes show {
-  100% {
+  0% {
     opacity: 0.5;
     transform: scale(0);
   }
